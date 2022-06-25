@@ -1,9 +1,9 @@
 .container{
 	background-color: black;
-	height: 74vh;
+	height: 60vh;
 	width: 280px;
 	margin: 0 auto;
-	margin-top: 100px;
+	margin-top: 80px;
 	border-radius: 20px;
 }
 #allresult{
@@ -47,5 +47,5 @@
 
 .footer{
     text-align: center;
-    margin-top: 30px;
+    margin-top: 20px;
 }
